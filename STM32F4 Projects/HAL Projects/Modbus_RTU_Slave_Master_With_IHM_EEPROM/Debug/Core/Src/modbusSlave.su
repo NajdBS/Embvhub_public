@@ -1,0 +1,12 @@
+../Core/Src/modbusSlave.c:47:10:Read_ADC_Channel	24	static
+../Core/Src/modbusSlave.c:74:6:Update_Input_Registers	16	static
+../Core/Src/modbusSlave.c:88:6:sendData	24	static
+../Core/Src/modbusSlave.c:98:6:modbusException	16	static
+../Core/Src/modbusSlave.c:110:9:readHoldingRegs	24	static
+../Core/Src/modbusSlave.c:149:9:readInputRegs	24	static
+../Core/Src/modbusSlave.c:188:9:readCoils	40	static
+../Core/Src/modbusSlave.c:254:9:readInputs	40	static
+../Core/Src/modbusSlave.c:320:9:writeHoldingRegs	24	static
+../Core/Src/modbusSlave.c:364:9:writeSingleReg	16	static
+../Core/Src/modbusSlave.c:396:9:writeSingleCoil	24	static
+../Core/Src/modbusSlave.c:443:9:writeMultiCoils	40	static

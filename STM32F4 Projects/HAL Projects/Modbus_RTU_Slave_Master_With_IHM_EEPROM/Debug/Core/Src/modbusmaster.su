@@ -1,0 +1,8 @@
+../Core/Src/modbusmaster.c:9:6:readHoldingRegisters_M	24	static
+../Core/Src/modbusmaster.c:28:6:readInputRegisters_M	24	static
+../Core/Src/modbusmaster.c:47:6:readCoils_M	24	static
+../Core/Src/modbusmaster.c:66:6:readDiscreteInputs_M	24	static
+../Core/Src/modbusmaster.c:85:6:writeSingleRegister_M	24	static
+../Core/Src/modbusmaster.c:104:6:writeMultipleRegisters_M	32	static
+../Core/Src/modbusmaster.c:130:6:writeSingleCoil_M	24	static
+../Core/Src/modbusmaster.c:149:6:writeMultipleCoils_M	32	static
